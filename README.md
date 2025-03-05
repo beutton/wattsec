@@ -1,14 +1,18 @@
-TO-DO: Add app icon here
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ed040304-5689-4323-b9c0-c9355b9c4365" width="200"/>
+</p>
 
 # WattSec
 
-TO-DO: Add preview here
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1d444659-dbe0-48d1-9368-a79d10ccf8c5"/>
+</p>
 
-Display macOS power usage (watts) in the menu bar
+Display macOS power usage (wattage) in the menu bar
 
 ## Download
 
-The latest release WattSec.dmg is available here. Open and drag the app to the Applications folder.
+The latest release of WattSec is available [here](https://github.com/beutton/wattsec/releases/latest). Open the DMG and drag the app to the Applications folder.
 
 ## Compile
 
@@ -21,9 +25,14 @@ open dist/WattSec.app
 
 ## Settings
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/12a5b1a7-b55b-4686-bd02-e7ea50fa2c7d" width="200"/>
+</p>
+
 - **Detail** - The number of watt decimal places to show (0, 1, or 2)
 - **Pace** - The refresh interval (1s, 3s, or 5s)
 - **Width** - The width of the metric in the menu bar (Dynamic or Fixed)
+- **Launch** - Toggle Launch at Login
 
 ## Credit
 
