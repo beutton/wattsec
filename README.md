@@ -26,7 +26,7 @@ open dist/WattSec.app
 ## Settings
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/12a5b1a7-b55b-4686-bd02-e7ea50fa2c7d" width="200"/>
+<img src="https://github.com/user-attachments/assets/9d213036-225c-4369-9b18-1cb6b94956e1"/>
 </p>
 
 - **Detail** - The number of watt decimal places to show (0, 1, or 2)
