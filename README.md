@@ -10,9 +10,16 @@
 
 Display macOS power usage (wattage) in the menu bar
 
-## Download
+## Installation
 
-The latest release of WattSec is available [here](https://github.com/beutton/wattsec/releases/latest). Open the DMG and drag the app to the Applications folder.
+WattSec can be installed with Homebrew:
+
+```
+brew tap beutton/brew
+brew install wattsec
+```
+
+Alternatively, you can download the latest release [here](https://github.com/beutton/wattsec/releases/latest).
 
 ## Compile
 
